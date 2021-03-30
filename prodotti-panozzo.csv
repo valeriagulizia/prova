@@ -1,7 +1,10 @@
-Handle,Title,Image 1,Option Name 1,Option  Value 1,Tags,Vendor,Compare Price,Price,sku,Tracker ID
-Sottotappi-flessibile-prova,SOTTOTAPPI FLESSIBILE Prova link,https://cdn.shopify.com/s/files/1/0537/1140/5214/files/STPVCHT_sottotappi_flessibile_per_alte_temperature.jpg?v=1616414287,Dettagli,"D1 7,2 - D2 4,4  -  METRICO  M8 - UNF -5/16""","phone, ios",Panozzo,1050,999,"STPVCHT7,2",64111
-Sottotappi-flessibile-prova,,,Dettagli,"D1 9,1 - D2  6,4 - METRICO  M10 - UNF  3/8""",,Panozzo,1030,995,"STPVCHT9,1",64222
-Sottotappi-flessibile-prova,,,Dettagli,"D1  10,3 - D2  7,5 - METRICO  M11- UNF  7/16""",,Panozzo,1500,1499,"STPVCHT10,3",128111
-Sottotappi-flessibile-prova,,,Dettagli,"D1 11,8 - D2 9  - METRICO M12  - UNF  1/2""",,Panozzo,1400,1350,"STPVCHT11,8",128223
-Sottotappi-flessibile-prova,,,Dettagli,"D1 13,5  - D2 10,7 - METRICO  M14  - UNF  9/16""",,Panozzo,250,199,"STPVCHT13,5",999999
-Sottotappi-flessibile-prova,,,Dettagli,"D1  15,4  - D2 12,6 -  METRICO  M16 - UNF   5/8""",,Panozzo,750,399,"STPVCHT15,4",999999
+Handle;Title;Image 1;Option Name 1;Option  Value 1;Tags;Vendor;Compare Price;Price;sku;Tracker ID
+Sottotappi-flessibile-alte-temperature;SOTTOTAPPI FLESSIBILE PER ALTE;https://cdn.shopify.com/s/files/1/0537/1140/5214/files/STPVCHT_sottotappi_flessibile_per_alte_temperature.jpg?v=1616414287;Dettagli;"D1 7,2 - D2 4,4  -  METRICO  M8 - UNF -5/16""";phone, ios;Panozzo;1050;999;STPVCHT7,2;64111
+Sottotappi-flessibile-alte-temperature;;;Dettagli;"D1 9,1 - D2  6,4 - METRICO  M10 - UNF  3/8""";;Panozzo;1030;995;STPVCHT9,1;64222
+Sottotappi-flessibile-alte-temperature;;;Dettagli;"D1  10,3 - D2  7,5 - METRICO  M11- UNF  7/16""";;Panozzo;1500;1499;STPVCHT10,3;128111
+Sottotappi-flessibile-alte-temperature;;;Dettagli;"D1 11,8 - D2 9  - METRICO M12  - UNF  1/2""";;Panozzo;1400;1350;STPVCHT11,8;128223
+Sottotappi-flessibile-alte-temperature;;;Dettagli;"D1 13,5  - D2 10,7 - METRICO  M14  - UNF  9/16""";;Panozzo;250;199;STPVCHT13,5;999999
+Sottotappi-flessibile-alte-temperature;;;Dettagli;"D1  15,4  - D2 12,6 -  METRICO  M16 - UNF   5/8""";;Panozzo;750;399;STPVCHT15,4;999999
+Prodotto-prova-esempio;SOTTOTAPPI FLESSIBILE PER ALTE;https://cdn.shopify.com/s/files/1/0537/1140/5214/files/STCF_sottotappi_conici_con_doppia_flangia.jpg?v=1617106708;Dettagli;"D1  15,4  - D2 12,6 -  METRICO  M16 - UNF   5/8""";;Panozzo;;399;Prova-1;999999
+Prodotto-prova-esempio;;;Dettagli;"D1 11,8 - D2 9  - METRICO M12  - UNF  1/2""";;Panozzo;;399;Prova-2;999999
+Prodotto-prova-esempio;;;Dettagli;"D1  10,3 - D2  7,5 - METRICO  M11- UNF  7/16""";;Panozzo;;399;Prova-3;999999
